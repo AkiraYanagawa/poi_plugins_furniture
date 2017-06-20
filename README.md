@@ -1,0 +1,1 @@
+# poi_plugins_furniture
